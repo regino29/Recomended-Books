@@ -1,0 +1,52 @@
+UserID: 224209
+----------------------------------------------------------------------
+Book: 1
+ISBN: 0670892963
+Tittle: Bridget Jones : The Edge of Reason
+Similarity: 0.8076923076923077
+
+Book: 2
+ISBN: 0140298479
+Tittle: Bridget Jones: The Edge of Reason
+Similarity: 0.8075925570688663
+
+Book: 3
+ISBN: 0312278586
+Tittle: The Nanny Diaries: A Novel
+Similarity: 0.75
+
+Book: 4
+ISBN: 0743225406
+Tittle: The Shipping News : A Novel
+Similarity: 0.7499002493765586
+
+Book: 5
+ISBN: 0312291639
+Tittle: The Nanny Diaries: A Novel
+Similarity: 0.7499002493765586
+
+Book: 6
+ISBN: 0330332775
+Tittle: Bridget Jones's Diary
+Similarity: 0.7497007481296759
+
+Book: 7
+ISBN: 0330487612
+Tittle: Bridget Jones' Diary (Film Tie-in)
+Similarity: 0.7141859636622728
+
+Book: 8
+ISBN: 0671510053
+Tittle: SHIPPING NEWS
+Similarity: 0.6818181818181819
+
+Book: 9
+ISBN: 344244392X
+Tittle: Das Tagebuch Der Bridget Jones
+Similarity: 0.6428571428571428
+
+Book: 10
+ISBN: 068480087X
+Tittle: POSTCARDS
+Similarity: 0.5
+

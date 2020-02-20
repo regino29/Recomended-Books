@@ -1,0 +1,52 @@
+UserID: 239468
+----------------------------------------------------------------------
+Book: 1
+ISBN: 014043187X
+Tittle: The Picture of Dorian Gray (Penguin Classic)
+Similarity: 0.8648711554447216
+
+Book: 2
+ISBN: 1551111268
+Tittle: The Picture of Dorian Gray (Broadview Literary Texts)
+Similarity: 0.8596009975062344
+
+Book: 3
+ISBN: 0671510053
+Tittle: SHIPPING NEWS
+Similarity: 0.8571428571428572
+
+Book: 4
+ISBN: 0140293442
+Tittle: Fever Pitch
+Similarity: 0.8571428571428572
+
+Book: 5
+ISBN: 0743225406
+Tittle: The Shipping News : A Novel
+Similarity: 0.8498004987531173
+
+Book: 6
+ISBN: 847166464X
+Tittle: El retrato de Dorian Gray
+Similarity: 0.8398004987531174
+
+Book: 7
+ISBN: 0140293469
+Tittle: High Fidelity
+Similarity: 0.8
+
+Book: 8
+ISBN: 1573228214
+Tittle: High Fidelity
+Similarity: 0.8
+
+Book: 9
+ISBN: 068480087X
+Tittle: POSTCARDS
+Similarity: 0.8
+
+Book: 10
+ISBN: 1573228583
+Tittle: Speaking With the Angel
+Similarity: 0.7998004987531173
+

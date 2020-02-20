@@ -1,0 +1,30 @@
+
+User 1 ID: 227884
+---------------------------------------------------------
+Overlap Jaccard - Dice Coefficient = 1.0
+Overlap Golden Standard - Jaccard  = 1.0
+Golden Standard - Dice Coefficient = 1.0
+
+User 2 ID: 224209
+---------------------------------------------------------
+Overlap Jaccard - Dice Coefficient = 1.0
+Overlap Golden Standard - Jaccard  = 1.0
+Golden Standard - Dice Coefficient = 1.0
+
+User 3 ID: 239468
+---------------------------------------------------------
+Overlap Jaccard - Dice Coefficient = 0.9521031746031745
+Overlap Golden Standard - Jaccard  = 1.0
+Golden Standard - Dice Coefficient = 0.9521031746031745
+
+User 4 ID: 227025
+---------------------------------------------------------
+Overlap Jaccard - Dice Coefficient = 1.0
+Overlap Golden Standard - Jaccard  = 1.0
+Golden Standard - Dice Coefficient = 1.0
+
+User 5 ID: 224340
+---------------------------------------------------------
+Overlap Jaccard - Dice Coefficient = 1.0
+Overlap Golden Standard - Jaccard  = 1.0
+Golden Standard - Dice Coefficient = 1.0

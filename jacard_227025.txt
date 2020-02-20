@@ -1,0 +1,52 @@
+UserID: 227025
+----------------------------------------------------------------------
+Book: 1
+ISBN: 0316182540
+Tittle: White Oleander : A Novel
+Similarity: 0.8857142857142858
+
+Book: 2
+ISBN: 0316569321
+Tittle: White Oleander : A Novel
+Similarity: 0.885514784467403
+
+Book: 3
+ISBN: 0316284955
+Tittle: White Oleander : A Novel (Oprah's Book Club)
+Similarity: 0.8600000000000001
+
+Book: 4
+ISBN: 0375703055
+Tittle: Ellen Foster
+Similarity: 0.8571428571428572
+
+Book: 5
+ISBN: 0767903862
+Tittle: In a Sunburned Country
+Similarity: 0.8571428571428572
+
+Book: 6
+ISBN: 0767903854
+Tittle: In a Sunburned Country
+Similarity: 0.8571428571428572
+
+Book: 7
+ISBN: 0380727501
+Tittle: Notes from a Small Island
+Similarity: 0.8
+
+Book: 8
+ISBN: 076790382X
+Tittle: I'm a Stranger Here Myself: Notes on Returning to America After 20 Years Away
+Similarity: 0.8
+
+Book: 9
+ISBN: 0767902521
+Tittle: A Walk in the Woods: Rediscovering America on the Appalachian Trail (Official Guides to the Appalachian Trail)
+Similarity: 0.7998004987531173
+
+Book: 10
+ISBN: 0767902513
+Tittle: A Walk in the Woods: Rediscovering America on the Appalachian Trail
+Similarity: 0.7998004987531173
+

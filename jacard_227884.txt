@@ -1,0 +1,52 @@
+UserID: 227884
+----------------------------------------------------------------------
+Book: 1
+ISBN: 0446672211
+Tittle: Where the Heart Is (Oprah's Book Club (Paperback))
+Similarity: 0.9111111111111112
+
+Book: 2
+ISBN: 0140286276
+Tittle: The Deep End of the Ocean (Oprah's Book Club)
+Similarity: 0.8500000000000001
+
+Book: 3
+ISBN: 0316168815
+Tittle: The Lovely Bones
+Similarity: 0.8440454419506789
+
+Book: 4
+ISBN: 159413023X
+Tittle: The Lovely Bones
+Similarity: 0.8440454419506789
+
+Book: 5
+ISBN: 0451196856
+Tittle: The Most Wanted
+Similarity: 0.8222222222222222
+
+Book: 6
+ISBN: 0670878847
+Tittle: The Most Wanted
+Similarity: 0.8222222222222222
+
+Book: 7
+ISBN: 0684857820
+Tittle: Lucky
+Similarity: 0.8
+
+Book: 8
+ISBN: 0446521582
+Tittle: The Honk and Holler Opening Soon
+Similarity: 0.8
+
+Book: 9
+ISBN: 0066210607
+Tittle: Theory of Relativity, A
+Similarity: 0.7998004987531173
+
+Book: 10
+ISBN: 0694525324
+Tittle: A Theory of Relativity
+Similarity: 0.7998004987531173
+

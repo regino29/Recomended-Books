@@ -1,0 +1,52 @@
+UserID: 224340
+----------------------------------------------------------------------
+Book: 1
+ISBN: 0345413903
+Tittle: The Murder Book
+Similarity: 0.75
+
+Book: 2
+ISBN: 0380731851
+Tittle: Mystic River
+Similarity: 0.75
+
+Book: 3
+ISBN: 034541389X
+Tittle: Flesh and Blood
+Similarity: 0.75
+
+Book: 4
+ISBN: 0679459626
+Tittle: Flesh and Blood
+Similarity: 0.7499002493765586
+
+Book: 5
+ISBN: 0375431292
+Tittle: Flesh and Blood: A Novel
+Similarity: 0.7221224715987807
+
+Book: 6
+ISBN: 0451206002
+Tittle: Over the Edge: An Alex Delaware Novel (Alex Delaware Novels (Paperback))
+Similarity: 0.5
+
+Book: 7
+ISBN: 3548256139
+Tittle: Absender unbekannt.
+Similarity: 0.5
+
+Book: 8
+ISBN: 3442453704
+Tittle: Fleisch und Blut. Ein Alex- Delaware- Roman.
+Similarity: 0.5
+
+Book: 9
+ISBN: 3548253407
+Tittle: Kein Kinderspiel.
+Similarity: 0.49990024937655864
+
+Book: 10
+ISBN: 3548251730
+Tittle: Regenzauber.
+Similarity: 0.49990024937655864
+
